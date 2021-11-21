@@ -33,12 +33,12 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Legends-
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/GUI-Commands-DH/main/Commands%20DH%3A%20script'))()
 ```
 
-**TB Crash** UPDATED ALWAYS
+**TB Crash** PATCH DONT USE IT
 ```lua
 --TB Crash
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Crash/main/TB%20Crash%3A%20Script", true))()
 ```
 
-**TB Crash V1** 1ST VERSION, BETTER FOR FREE EXPLOITS
+**TB Crash V1** 1ST VERSION, PATCH DONT USE IT
 --TB Crash [Crashes in 5 minutes] 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Crash/main/TB%20Crash%3A%20Script%20V1"))()
