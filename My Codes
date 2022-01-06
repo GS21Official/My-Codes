@@ -34,17 +34,13 @@ LINK: https://pastebin.com/raw/iCNcrWgB
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Legends-Of-Speed-GUI/main/LOS%20GUI%20Script'))()
 ```
 
-** NEW DH Commands**
+** DH Commands**
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/GUI-Commands-DH/main/Commands%20DH%3A%20script'))()
 ```
 
-**TB Crash** PATCH DONT USE IT
+**DaHood Crash** For Low and High end PC (super fast)
 ```lua
---TB Crash
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Crash/main/TB%20Crash%3A%20Script", true))()
+--Swagmode Crash Modified by me for better performance
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Crash/main/Swagmode%20crash%20modified%20(better%20FPS)%20crash"))()
 ```
-
-**TB Crash V1** 1ST VERSION, PATCH DONT USE IT
---TB Crash [Crashes in 5 minutes] 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Crash/main/TB%20Crash%3A%20Script%20V1"))()
