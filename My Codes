@@ -1,46 +1,52 @@
-||@everyone||
-**Fling GUI**
-```lua
+-- DaHood GS21 Crash WORKING JULY 2022
+getgenv().Active = true --Toggle true or false
+getgenv().CrashAmmount = 1500 --The more you add the better
+--[[ Theres a chance that the crash fails, if that happends just re execute and
+     add more to CrashAmmount
+      Requirements:
+      Any PC, 5 minutes, account has to be in a group (it doesnt matter the group)
+]]
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Seller-Tools/main/GS21%20Dh%20Crash'))()
+
+------------------------||
+
 --FlingGUI
 loadstring(game:HttpGet("https://pastebin.com/raw/ATJMjc8v", true))()
-```
 
-**DH Victim Menu**
-```lua
+------------------------||
+
 --VictimMenu DH
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-VictimMenu-Script/main/Dh%20VictimMenu%3A%20Script"))()
-```
 
-**TrustBoy**
-```lua
+------------------------||
+
 -- TrustBoy
 loadstring(game:HttpGet('https://pastebin.com/raw/XXAWmifh'))()
-```
 
-**!Tools V3**
-```lua
+------------------------||
+
 -- !Tools
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/-ToolsScript/main/!Tools%20script%20page'))()
-```
 
+------------------------||
 **Swagmode | Premium**
 ```
 LINK: https://pastebin.com/raw/iCNcrWgB
 ```
+------------------------||
 
-**Legends Of Speed**
-```lua
 -- Legends Of Speed GUI
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Legends-Of-Speed-GUI/main/LOS%20GUI%20Script'))()
-```
 
-** DH Commands**
-```lua
+------------------------||
+
+-- DH Commands
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/GUI-Commands-DH/main/Commands%20DH%3A%20script'))()
-```
 
-**DaHood Crash** For Low and High end PC (super fast)
-```lua
+------------------------||
+
+--DaHood Crash For Low and High end PC (super fast)
 --Swagmode Crash Modified by me for better performance
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Crash/main/Swagmode%20crash%20modified%20(better%20FPS)%20crash"))()
-```
+
